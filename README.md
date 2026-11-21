@@ -12,6 +12,8 @@ Je construis des applications web et mobiles, avec un faible pour les outils qui
 ## 🚀 Ce sur quoi je travaille
 
 - 💸 **Gestion de la trésorerie des associations** — ERP open source pour suivre budgets, flux, factures et déclarations d'une junior entreprise
+- 🎓 **Cursus** — plateforme de formation en ligne qui mesure le niveau réel (quiz bloquants, compétences, badges, certificats)
+- 🎬 **Free AI Video Studio** — studio local qui transforme un script en short vertical animé, sans API payante
 - 🏋️ **GymFlow** — application Flutter pour salles de sport (web + mobile)
 
 ## 🛠️ Stack
@@ -30,7 +32,10 @@ Je construis des applications web et mobiles, avec un faible pour les outils qui
 | Projet | Description |
 |---|---|
 | [Gestion-Tresorerie-Associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations) | Trésorerie complète pour une association : budget, flux, factures, avoirs, déclaration mensuelle |
+| [Cursus-Plateforme-Elearning](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning) | Plateforme e-learning : vidéos à quiz bloquants, compétences 0-99, badges, certificats (Next.js, PostgreSQL) |
+| [Free-AI-Video-Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio) | Studio local de shorts animés : 3D en blocs, stickman, motion design, voix et sous-titres (Three.js, FFmpeg) |
 | [Projet-5SAE6-GymFlow](https://github.com/YoussefBY22/Projet-5SAE6-GymFlow) | Application de gestion de salle de sport en Flutter |
+| [Application-Gestion-Profils](https://github.com/YoussefBY22/Application-Gestion-Profils) | Application MERN de gestion de profils (MongoDB, Express, React, Node) |
 
 ## 📫 Me contacter
 
