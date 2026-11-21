@@ -22,7 +22,7 @@ Je construis des applications complètes, de la base de données à l'interface 
 
 | | Projet | En bref |
 |---|---|---|
-| 🏋️ | **[GymFlow](https://github.com/YoussefBY22/Application-Web-Gestion-Salles-de-Sport)** *(projet de groupe, version web en accès libre)* | L'application complète d'une salle de sport : entraînement guidé, réservation de cours, boutique, communauté en temps réel et un **assistant IA qui connaît le club**. Sur mobile et sur le web. |
+| 🏋️ | **[GymFlow](https://github.com/YoussefBY22/GymFlow-Application-Salle-de-Sport)** *(projet de groupe)* | L'application complète d'une salle de sport : entraînement guidé, réservation de cours, boutique, communauté en temps réel et un **assistant IA qui connaît le club**. Application mobile Flutter. |
 | 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Une plateforme de formation qui **mesure ce qu'on apprend vraiment** : vidéos à quiz bloquants, niveau de compétence de 0 à 99, badges et certificats vérifiables. |
 | 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Un studio qui transforme **un simple script en short vertical animé** : personnage 3D, voix et sous-titres, sans aucune API payante. |
 | 💸 | **[Gestion de la trésorerie des associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations)** | Le **cadre légal tunisien des associations** dans un seul outil : registre des dons, reçus, cotisations, factures et déclaration mensuelle (TVA, timbre, retenue à la source), conformes au décret-loi 2011-88. |
