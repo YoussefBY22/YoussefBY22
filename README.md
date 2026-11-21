@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Ben%20Youssef&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ing%C3%A9nieur%20logiciel%20en%20formation%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20IA&descAlignY=58&descSize=18" alt="Youssef Ben Youssef" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Ben%20Youssef&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ing%C3%A9nieur%20logiciel%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20IA&descAlignY=58&descSize=18" alt="Youssef Ben Youssef" width="100%">
 
 <a href="https://github.com/YoussefBY22">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Je+construis+des+applications+mobiles+et+web;Flutter+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Des+outils+qui+simplifient+la+vie+des+gens;J'int%C3%A8gre+l'IA+l%C3%A0+o%C3%B9+elle+est+utile" alt="Typing SVG">
