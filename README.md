@@ -18,15 +18,14 @@
 
 Je construis des applications complètes, de la base de données à l'interface : applications mobiles, plateformes web, outils de gestion et automatisation vidéo. J'aime les projets où il faut **tout faire fonctionner ensemble** : paiement, notifications, temps réel, IA, tests, déploiement.
 
-## 🚀 Ce que j'ai construit
+## 🏆 Mes 4 meilleurs projets
 
 | | Projet | En bref |
 |---|---|---|
-| 🏋️ | **GymFlow** *(projet de groupe)* | Application Flutter de salle de sport : **60 000 lignes de Dart, plus de 230 tests**, 3 rôles (admin, coach, abonné), réservation avec liste d'attente, QR de réservation, boutique avec paiement Stripe, amis et messagerie en temps réel, notifications push, analyse de sentiment des avis par IA, mode sombre, version ordinateur |
-| 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Plateforme e-learning qui mesure le **niveau réel** : le serveur recalcule le temps regardé (ni sauts ni lecture accélérée), quiz bloquants, compétences 0-99, badges, certificats vérifiables. **262 tests unitaires et 34 tests de bout en bout** |
-| 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Studio local qui transforme un script en **short vertical animé** (personnage 3D, voix, sous-titres) : scène Three.js rendue image par image, FFmpeg, cache par plan, clipping automatique, sans API payante |
-| 💸 | **[Gestion de la trésorerie des associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations)** | Trésorerie pensée pour le **décret-loi 2011-88** : registre des dons, reçus numérotés, cotisations, factures et avoirs, **déclaration mensuelle** (TVA, timbre, retenue à la source), éditeur de documents. **602 tests** |
-
+| 🏋️ | **[GymFlow](https://github.com/YoussefBY22/Application-Web-Gestion-Salles-de-Sport)** *(projet de groupe, version web en accès libre)* | L'application complète d'une salle de sport : entraînement guidé, réservation de cours, boutique, communauté en temps réel et un **assistant IA qui connaît le club**. Sur mobile et sur le web. |
+| 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Une plateforme de formation qui **mesure ce qu'on apprend vraiment** : vidéos à quiz bloquants, niveau de compétence de 0 à 99, badges et certificats vérifiables. |
+| 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Un studio qui transforme **un simple script en short vertical animé** : personnage 3D, voix et sous-titres, sans aucune API payante. |
+| 💸 | **[Gestion de la trésorerie des associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations)** | Le **cadre légal tunisien des associations** dans un seul outil : registre des dons, reçus, cotisations, factures et déclaration mensuelle (TVA, timbre, retenue à la source), conformes au décret-loi 2011-88. |
 ## 🛠️ Technologies
 
 **Mobile**
@@ -90,7 +89,7 @@ Je construis des applications complètes, de la base de données à l'interface 
 <a href="https://github.com/YoussefBY22/Free-AI-Video-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Free-AI-Video-Studio&hide_border=true" alt="Free AI Video Studio"></a>
 
 <a href="https://github.com/YoussefBY22/Gestion-Tresorerie-Associations"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Gestion-Tresorerie-Associations&hide_border=true" alt="Gestion de la trésorerie"></a>
-<a href="https://github.com/YoussefBY22/Projet-5SAE6-GymFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Projet-5SAE6-GymFlow&hide_border=true" alt="GymFlow"></a>
+<a href="https://github.com/YoussefBY22/Application-Web-Gestion-Salles-de-Sport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Application-Web-Gestion-Salles-de-Sport&hide_border=true" alt="GymFlow"></a>
 
 </div>
 
