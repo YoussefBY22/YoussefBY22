@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Youssef 👋
 
-**Élève ingénieur en génie logiciel · ESPRIT (5SAE6)**
+**Élève ingénieur en génie logiciel · ESPRIT**
 Je construis des applications web et mobiles, avec un faible pour les outils qui rendent la vie des associations plus simple.
 
 </div>
