@@ -13,7 +13,6 @@ Je construis des applications web et mobiles, avec un faible pour les outils qui
 
 - 💸 **Gestion de la trésorerie des associations** — ERP open source pour suivre budgets, flux, factures et déclarations d'une junior entreprise
 - 🏋️ **GymFlow** — application Flutter pour salles de sport (web + mobile)
-- 🌐 **Projet Web Distribué** — architecture Java en services
 
 ## 🛠️ Stack
 
