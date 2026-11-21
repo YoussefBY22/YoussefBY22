@@ -25,7 +25,7 @@ Je construis des applications complètes, de la base de données à l'interface 
 | 🏋️ | **GymFlow** *(projet de groupe)* | Application Flutter de salle de sport : **60 000 lignes de Dart, plus de 230 tests**, 3 rôles (admin, coach, abonné), réservation avec liste d'attente, QR de réservation, boutique avec paiement Stripe, amis et messagerie en temps réel, notifications push, analyse de sentiment des avis par IA, mode sombre, version ordinateur |
 | 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Plateforme e-learning qui mesure le **niveau réel** : le serveur recalcule le temps regardé (ni sauts ni lecture accélérée), quiz bloquants, compétences 0-99, badges, certificats vérifiables. **262 tests unitaires et 34 tests de bout en bout** |
 | 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Studio local qui transforme un script en **short vertical animé** (personnage 3D, voix, sous-titres) : scène Three.js rendue image par image, FFmpeg, cache par plan, clipping automatique, sans API payante |
-| 💸 | **[Gestion de la trésorerie des associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations)** | Budget, flux, factures, avoirs, reçus numérotés, déclaration mensuelle, pièce justificative sur chaque écriture |
+| 💸 | **[Gestion de la trésorerie des associations](https://github.com/YoussefBY22/Gestion-Tresorerie-Associations)** | Trésorerie pensée pour le **décret-loi 2011-88** : registre des dons, reçus numérotés, cotisations, factures et avoirs, **déclaration mensuelle** (TVA, timbre, retenue à la source), éditeur de documents. **602 tests** |
 
 ## 🛠️ Technologies
 
