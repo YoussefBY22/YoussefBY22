@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Ben%20Youssef&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ing%C3%A9nieur%20logiciel%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20IA&descAlignY=58&descSize=18" alt="Youssef Ben Youssef" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Ben%20Youssef&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ing%C3%A9nieur%20logiciel%20%C2%B7%20IA%20appliqu%C3%A9e%20%C2%B7%20Web%20%C2%B7%20Mobile&descAlignY=58&descSize=18" alt="Youssef Ben Youssef" width="100%">
 
 <a href="https://github.com/YoussefBY22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Je+construis+des+applications+mobiles+et+web;Flutter+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Des+outils+qui+simplifient+la+vie+des+gens;J'int%C3%A8gre+l'IA+l%C3%A0+o%C3%B9+elle+est+utile" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=IA+locale+%3A+RAG%2C+fine-tuning+QLoRA%2C+LLM+sur+site;Je+construis+des+applications+mobiles+et+web;Flutter+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Des+outils+qui+simplifient+la+vie+des+gens;J'int%C3%A8gre+l'IA+l%C3%A0+o%C3%B9+elle+est+utile" alt="Typing SVG">
 </a>
 
 **Élève ingénieur en génie logiciel · ESPRIT**
@@ -16,12 +16,13 @@
 
 ## 👋 À propos
 
-Je construis des applications complètes, de la base de données à l'interface : applications mobiles, plateformes web, outils de gestion et automatisation vidéo. J'aime les projets où il faut **tout faire fonctionner ensemble** : paiement, notifications, temps réel, IA, tests, déploiement.
+Je construis des applications complètes, de la base de données à l'interface, et j'y intègre l'IA de façon **mesurable et vérifiable** : RAG, fine-tuning de modèles de langue, modèles qui tournent **sur site**, sans cloud. Applications mobiles, plateformes web, outils de gestion, automatisation vidéo. J'aime les projets où il faut **tout faire fonctionner ensemble** : paiement, notifications, temps réel, IA, tests, déploiement.
 
-## 🏆 Mes 4 meilleurs projets
+## 🏆 Mes meilleurs projets
 
 | | Projet | En bref |
 |---|---|---|
+| 🧭 | **[Cadrage — IA de cadrage de missions](https://github.com/YoussefBY22/PRV-PR8-PFE-IA-Cadrage)** | Une IA **100 % locale** qui lit des rapports d'audit et produit une **feuille de route par axes et par vagues**, des termes de référence et un cahier des charges, **chaque phrase citée et vérifiée**. Qwen3-4B **fine-tuné en QLoRA** (refus sans preuve 4/31 → 31/31), RAG hybride, FastAPI, Next.js, Power BI. Testé sur un vrai rapport de 53 pages. |
 | 🏋️ | **[GymFlow](https://github.com/YoussefBY22/GymFlow-Application-Salle-de-Sport)** | L'application complète d'une salle de sport : entraînement guidé, réservation de cours, boutique, communauté en temps réel et un **assistant IA qui connaît le club**. Application mobile Flutter. |
 | 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Une plateforme de formation qui **mesure ce qu'on apprend vraiment** : vidéos à quiz bloquants, niveau de compétence de 0 à 99, badges et certificats vérifiables. |
 | 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Un studio qui transforme **un simple script en short vertical animé** : personnage 3D, voix et sous-titres, sans aucune API payante. |
@@ -52,19 +53,31 @@ Je construis des applications complètes, de la base de données à l'interface 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**IA et données**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector_RAG-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 **Qualité, IA et vidéo**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💡 Ce dont je suis le plus fier
 
+- **Une IA qui préfère refuser plutôt qu'inventer** : dans Cadrage, chaque phrase cite son passage source et passe un vérificateur ; sans preuve, le modèle refuse. Le fine-tuning a été **mesuré** sur des rapports jamais vus, puis dans l'application, puis sur un vrai rapport, et un second entraînement non meilleur n'a pas été adopté.
+- **De l'ingénierie sous contrainte** : un vrai rapport (74 constats) tient dans la fenêtre d'un modèle local sur un GPU de 4 Go, en découpant le travail par axes ; le code range les constats par le sens, le modèle rédige.
 - **L'IA avec filet de sécurité** : dans GymFlow, l'analyse des avis essaie Gemini, puis Hugging Face, puis un secours local par mots-clés. L'application ne tombe jamais en panne si une API refuse, et la raison du repli est affichée.
 - **Un serveur qui ne fait pas confiance au navigateur** : dans Cursus, la progression d'une vidéo est recalculée côté serveur, et les bonnes réponses d'un quiz ne sont jamais livrées avant la correction.
 - **Du temps réel fiable** : amis, présence en direct et messagerie, avec blocage, signalement et notifications push quand l'application est fermée.
@@ -84,6 +97,8 @@ Je construis des applications complètes, de la base de données à l'interface 
 ## 📌 Projets à la une
 
 <div align="center">
+
+<a href="https://github.com/YoussefBY22/PRV-PR8-PFE-IA-Cadrage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=PRV-PR8-PFE-IA-Cadrage&hide_border=true" alt="Cadrage"></a>
 
 <a href="https://github.com/YoussefBY22/Cursus-Plateforme-Elearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Cursus-Plateforme-Elearning&hide_border=true" alt="Cursus"></a>
 <a href="https://github.com/YoussefBY22/Free-AI-Video-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Free-AI-Video-Studio&hide_border=true" alt="Free AI Video Studio"></a>
