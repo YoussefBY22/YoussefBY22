@@ -22,7 +22,7 @@ Je construis des applications complètes, de la base de données à l'interface,
 
 | | Projet | En bref |
 |---|---|---|
-| 🧭 | **[Cadrage — IA de cadrage de missions](https://github.com/YoussefBY22/PRV-PR8-PFE-IA-Cadrage)** | Une IA **100 % locale** qui lit des rapports d'audit et produit une **feuille de route par axes et par vagues**, des termes de référence et un cahier des charges, **chaque phrase citée et vérifiée**. Qwen3-4B **fine-tuné en QLoRA** (refus sans preuve 4/31 → 31/31), RAG hybride, FastAPI, Next.js, Power BI. Testé sur un vrai rapport de 53 pages. |
+| 🧭 | **[Cadrage — IA de cadrage de missions](https://github.com/YoussefBY22/Cadrage-GenerationDoc-IA)** | Une IA **100 % locale** qui lit des rapports d'audit et produit une **feuille de route par axes et par vagues**, des termes de référence et un cahier des charges, **chaque phrase citée et vérifiée**. Qwen3-4B **fine-tuné en QLoRA** (refus sans preuve 4/31 → 31/31), RAG hybride, FastAPI, Next.js, Power BI. Testé sur un vrai rapport de 53 pages. |
 | 🏋️ | **[GymFlow](https://github.com/YoussefBY22/GymFlow-Application-Salle-de-Sport)** | L'application complète d'une salle de sport : entraînement guidé, réservation de cours, boutique, communauté en temps réel et un **assistant IA qui connaît le club**. Application mobile Flutter. |
 | 🎓 | **[Cursus](https://github.com/YoussefBY22/Cursus-Plateforme-Elearning)** | Une plateforme de formation qui **mesure ce qu'on apprend vraiment** : vidéos à quiz bloquants, niveau de compétence de 0 à 99, badges et certificats vérifiables. |
 | 🎬 | **[Free AI Video Studio](https://github.com/YoussefBY22/Free-AI-Video-Studio)** | Un studio qui transforme **un simple script en short vertical animé** : personnage 3D, voix et sous-titres, sans aucune API payante. |
@@ -98,7 +98,7 @@ Je construis des applications complètes, de la base de données à l'interface,
 
 <div align="center">
 
-<a href="https://github.com/YoussefBY22/PRV-PR8-PFE-IA-Cadrage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=PRV-PR8-PFE-IA-Cadrage&hide_border=true" alt="Cadrage"></a>
+<a href="https://github.com/YoussefBY22/Cadrage-GenerationDoc-IA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Cadrage-GenerationDoc-IA&hide_border=true" alt="Cadrage"></a>
 
 <a href="https://github.com/YoussefBY22/Cursus-Plateforme-Elearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Cursus-Plateforme-Elearning&hide_border=true" alt="Cursus"></a>
 <a href="https://github.com/YoussefBY22/Free-AI-Video-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefBY22&repo=Free-AI-Video-Studio&hide_border=true" alt="Free AI Video Studio"></a>
